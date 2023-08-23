@@ -1,5 +1,12 @@
 {
-  "index": "Introduction",
+  "index": {
+    "title": "Home",
+    "display": "hidden",
+    "type": "page",
+    "theme": {
+      "layout": "full"
+    }
+  },
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
